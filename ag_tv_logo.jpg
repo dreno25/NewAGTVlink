@@ -31,7 +31,7 @@
             margin-bottom: 20px;
             font-size: 2em;
         }
-        /* <img src="ag_tv_logo.JPEG" alt="Ag Streaming TV Logo" class="logo"> */
+        /* <img src="ag_tv_logo.png" alt="Ag Streaming TV Logo" class="logo"> */
         .logo {
             width: 539px; /* Adjust size as needed */
             height: auto;
